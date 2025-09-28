@@ -16,6 +16,7 @@ public class UserApplication {
 
 		SpringApplication.run(UserApplication.class, args);
 		logger.info("***App has started successfully***");
+		System.out.println("***App has started successfully***");
 	}
 
 }
